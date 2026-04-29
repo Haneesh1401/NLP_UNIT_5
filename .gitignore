@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow notebook files
+!*.ipynb
+
+# Allow JSON files
+!*.json
+
+# Allow gitignore itself
+!.gitignore
+
+# (Optional) Allow README if you want later
+!README.md
