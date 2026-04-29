@@ -1,0 +1,34 @@
+[
+    {
+        "Alien": "Heatblast",
+        "Location": "New York",
+        "Organization": null,
+        "Date": "12th June",
+        "Threat": "High",
+        "Text": "Heatblast was spotted in New York attacking Forever Knights base on 12th June. Threat level is high."
+    },
+    {
+        "Alien": "XLR8",
+        "Location": "Plumber",
+        "Organization": "XLR8",
+        "Date": null,
+        "Threat": "Medium",
+        "Text": "XLR8 detected in Tokyo during a chase near Plumber HQ. Threat level is medium."
+    },
+    {
+        "Alien": "Four Arms",
+        "Location": "Mumbai",
+        "Organization": null,
+        "Date": null,
+        "Threat": "High",
+        "Text": "Four Arms appeared in Mumbai causing destruction on 5th May. Threat level is high."
+    },
+    {
+        "Alien": "Diamondhead",
+        "Location": "London",
+        "Organization": null,
+        "Date": null,
+        "Threat": "Low",
+        "Text": "Diamondhead seen in London protecting civilians. Threat level is low."
+    }
+]
